@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ConnectNow - Video Chat Platform</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div id="logo">
+				<h1>ConnectNow</h1>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Features</a></li>
+					<li><a href="#">Pricing</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Sign Up/Login</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+	
+	<section id="hero">
+		<div class="container">
+			<h2>Connect with Anyone, Anywhere in the World</h2>
+			<p>With ConnectNow, you can easily video chat with friends, family, and colleagues, no matter where they are located.</p>
+			<a href="#" class="button">Sign Up Now</a>
+		</div>
+	</section>
+
+	<section id="features">
+		<div class="container">
+			<h2>Key Features</h2>
+			<div class="feature">
+				<h3>Video Chat</h3>
+				<p>Easily connect with others through high-quality video chat.</p>
+			</div>
+			<div class="feature">
+				<h3>Screen Sharing</h3>
+				<p>Share your screen with others to collaborate and get work done.</p>
+			</div>
+			<div class="feature">
+				<h3>Text Chat</h3>
+				<p>If video chat isn't an option, use text chat to communicate with others.</p>
+			</div>
+			<div class="feature">
+				<h3>Recording</h3>
+				<p>Record video chats to save and share with others later.</p>
+			</div>
+			<div class="feature">
+				<h3>Paid Features</h3>
+				<p>Upgrade to a paid plan for longer video chats, larger groups, and custom branding options.</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="pricing">
+		<div class="container">
+			<h2>Pricing Plans</h2>
+			<table>
+				<tr>
+					<th>Plan</th>
+					<th>Features</th>
+					<th>Price</th>
+					<th>Sign Up</th>
+				</tr>
+				<tr>
+					<td>Basic</td>
+					<td>1-on-1 video chat</td>
+					<td>$9.99/month</td>
+					<td><a href="#" class="button">Sign Up Now</a></td>
+				</tr>
+				<tr>
+					<td>Pro</td>
+					<td>Up to 5 participants, screen sharing, text chat, recording</td>
+					<td>$29.99/month</td>
+					<td><a href="#" class="button">Sign Up Now</a></td>
+				</tr>
+				<tr>
+					<td>Enterprise</td>
